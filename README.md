@@ -1,4 +1,4 @@
-# Packt: Hands on Machine Learning and Deep Learning with PyTorch 1.0
+## Packt: Hands on Machine Learning and Deep Learning with PyTorch 1.0
 
 Upcoming book in Machine and Deep Learning in PyTorch
 
