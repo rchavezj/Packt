@@ -1,4 +1,4 @@
-# Udacity Self-Driving Car Engineer Nanodegree - Behavioral Cloning Project
+# Behavioral Cloning Project
 
 *My solution to the Udacity Self-Driving Car Engineer Nanodegree Behavioral Cloning project.*
 
